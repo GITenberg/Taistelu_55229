@@ -1,0 +1,29 @@
+_repo: Taistelu_55229
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Elo, Eemil
+    gutenberg_agent_id: '48237'
+    url: http://www.gutenberg.org/2009/agents/48237
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2017-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55229'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Taistelu
+url: http://www.gutenberg.org/ebooks/55229
